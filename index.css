@@ -1,0 +1,45 @@
+.card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px;
+  width: 300px;
+}
+.subhead {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: "Roboto";
+}
+.image {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.first-card {
+  background-color: #0b69ff;
+}
+.second-card {
+  background-color: #2dca73;
+}
+.third-card {
+  background-color: #ffb800;
+}
+.fourth-card {
+  background-color: #ff0b37;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #0f172a;
+  font-family: "Roboto";
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
